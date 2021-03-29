@@ -1,7 +1,6 @@
 
 p {
-    font-family: 'M PLUS 1p', sans-serif;
-    font-size: 1.3em;
+    font-family: 'Secular One', sans-serif;
 }
 
 .qoute{
@@ -69,4 +68,19 @@ w3-row{
     background: #007bb5;
     color: white;
   }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  h1{
+      font-size: 3rem;
+      font-family: 'Secular One', sans-serif;
+  }
+  h2{
+    font-family: 'Secular One', sans-serif;
+  }
+  td {
+      font-size: 17px;
+  }
+  
   
