@@ -72,6 +72,13 @@ w3-row{
     background: #125688;
     color: white;
   }
+  .fa-whatsapp{
+    background:green;
+    color: white;
+    margin: 2px;
+    border-radius: 50%;
+
+  }
   h1{
       font-size: 3rem;
       font-family: 'Secular One', sans-serif;
@@ -82,5 +89,12 @@ w3-row{
   td {
       font-size: 17px;
   }
-  
+  .whatsapp-conteiner{
+    position: fixed;
+    bottom :0px;
+    right:0px;
+    width:30%;  
+
+  }
+
   
