@@ -45,6 +45,14 @@ w3-row{
     text-align: center;
     text-decoration: none;
   }
+  .fab{
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
   
   /* Add a hover effect if you want */
   .fa:hover {
@@ -96,5 +104,14 @@ w3-row{
     width:30%;  
 
   }
+.fa-phone{
+  height: 15px;
+  width: 15px;
+}
 
+.fa-map-marker{
+  background-color: rgb(126,192,238);
+  color: white;
+
+}
   
